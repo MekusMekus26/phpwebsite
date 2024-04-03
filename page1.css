@@ -1,0 +1,78 @@
+body{
+background-color:rgba(13, 0, 20, 1) ;
+margin: 0;
+padding: 0;
+}
+#welc{
+font-size: 6vw;
+margin:2vw;
+border-radius: 2vw;
+color:black ;
+text-align: center;
+background-color: #301934;
+border:solid .2vw #BC13fe;
+}
+#formp{
+    text-align: left;
+    font-size: 2vw;
+    color:#BC13fe;
+    padding:1.3vw;
+    }
+p{
+font-size: 2vw;
+color:#BC13fe;
+padding:1.3vw;
+}
+main{
+    font-size: 2vw;
+    margin:5vw;
+    border-radius: 2vw;
+    color:black ;
+    text-align: center;
+    background-color: #301934;
+    border:solid .2vw #BC13fe;
+
+
+}
+#zaddy{
+
+    font-size: 6vw;
+    margin:2vw;
+    border-radius: 2vw;
+    color:black ;
+    text-align: center;
+    background-color: #301934;
+    border:solid .2vw #BC13fe;
+
+    
+}
+.Zaddy{
+margin-top: 1vw;
+width:5vw ;
+height:5vh ;
+accent-color:  #BC13fe;
+}
+#hello{
+    font-size: 2vw;
+    margin:2vw;
+    border-radius: 2vw;
+    color:black ;
+    text-align: left;
+    background-color: #301934;
+    border:solid .2vw #BC13fe;
+
+    padding:1.2vw;
+}
+
+#outp{
+
+    font-size: 2vw;
+    margin:2vw;
+    border-radius: 2vw;
+    color:black ;
+    text-align: left;
+    background-color: #301934;
+    border:solid .2vw #BC13fe;
+
+    padding:1.2vw;
+}
